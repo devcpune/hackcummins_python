@@ -1,4 +1,4 @@
-# segfol
+# Files Segregator (segfol)
 Automation using Python : The script is primarily a segregator, that is used to segregate similar file types into folders.
 
 ## Getting Started
