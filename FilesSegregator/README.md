@@ -16,4 +16,5 @@ python3 segfol /path/of/the/directory/
 Database dictionary used - `extension.py` is not complete and not all file types and folders are specified. It will be more accurate, if more data is added.
 
 #### Author - Kumar Ashwin 
+#### Email - krashwin00@gmail.com
 #### Date Created - 6th November, 2019
